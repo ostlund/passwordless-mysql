@@ -1,4 +1,13 @@
 # passwordless-mysql
+
+## Fork
+
+Use newer version of Bcrypt to work with never versions of NodeJs.
+Remove the use of Grunt.
+Some small adjustments and cleanup done.
+
+## Old
+
 This module provides token storage for Passwordless, a node.js module for express that allows website
 authentication without password using verification through email or other means. 
 Visit the project's website https://passwordless.net for more details.
